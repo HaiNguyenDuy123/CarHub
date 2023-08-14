@@ -28,7 +28,7 @@ const SearchBar = () => {
     e.preventDefault();
 
     if (manufacturer.trim() === "" && model.trim() === "") {
-      return alert("Please provide some input");
+      return alert("Vui lòng cung cấp tên xe!");
     }
 
     updateSearchParams(model.toLowerCase(), manufacturer.toLowerCase());

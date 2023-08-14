@@ -61,7 +61,7 @@ export const fuels = [
     value: "",
   },
   {
-    title: "Khí gas",
+    title: "Gas",
     value: "Gas",
   },
   {
@@ -95,7 +95,7 @@ export const footerLinks = [
       { title: "Discord", url: "/" },
       { title: "Instagram", url: "/" },
       { title: "Twitter", url: "/" },
-      { title: "Facebook", url: "/" },
+      { title: "Facebook", url: "https://www.facebook.com/profile.php?id=100025010315888" },
     ],
   },
 ];
