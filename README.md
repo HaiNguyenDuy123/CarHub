@@ -1,4 +1,4 @@
-![image](https://github.com/HaiNguyenDuy123/CarHub/assets/91516568/adc5656b-63c5-4d78-83ef-6e9a5816b503)
+![image](https://github.com/HaiNguyenDuy123/CarHub/assets/91516568/e8a26cfd-595d-4f4a-879e-0128fb329667)
 
 ## Introduction
 The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
